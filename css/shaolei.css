@@ -1,0 +1,111 @@
+.body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin: 50px auto;
+    text-align: center;
+}
+
+.container .btn-group {
+    margin-bottom: 10px;
+}
+
+.container button {
+    padding: 5px 15px;
+    background: #02a4ad;
+    border: none;
+    border-radius: 3px;
+    color: #ffffff;
+    outline: none;
+    cursor: pointer;
+}
+
+.container button.active {
+    background: #00abff;
+}
+
+.container .message {
+    margin-top: 10px;
+}
+
+.container .main table {
+    border-spacing: 2px;
+    margin: 0 auto;
+    background: #929196;
+}
+
+.container .main table td {
+    padding: 0;
+    background: #cccccc;
+    width: 20px;
+    height: 20px;
+    border: 3px solid;
+    font-weight: bold;
+    line-height: 20px;
+    border-color: #ffffff #a1a1a1 #a1a1a1 #ffffff;
+}
+
+.container .main .main-lei {
+    background: #d9d9d9 url(.././imgs/mine.png) no-repeat center;
+    background-size: cover;
+}
+
+.container .main .flag {
+    background: #cccccc url(.././imgs/flag.png) no-repeat center;
+    background-size: cover;
+}
+
+.container .main table td.zero {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+}
+
+.container .main table td.one {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #0332fe;
+}
+
+.container .main table td.two {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #019f02;
+}
+
+.container .main table td.three {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #ff2600;
+}
+
+.container .main table td.four {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #93208f;
+}
+
+.container .main table td.five {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #ff7f29;
+}
+
+.container .main table td.six {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #ff3fff;
+}
+
+.container .main table td.seven {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #3fffbf;
+}
+
+.container .main table td.eight {
+    border-color: #d9d9d9;
+    background: #d9d9d9;
+    color: #22ee0f;
+}
